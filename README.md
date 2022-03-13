@@ -23,7 +23,7 @@ cd ArchTitus
 ```
 
 ### System Description
-This is completely automated arch install of the KDE desktop environment on arch using all the packages I use on a daily basis. 
+This is completely automated arch install of the KDE desktop environment on arch using all the packages I use on a daily basis. There are more than one desktop environment, feel free to choose from
 
 ## Troubleshooting
 
