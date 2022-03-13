@@ -52,8 +52,6 @@ gst-plugins-good
 gst-plugins-ugly
 haveged
 htop
-jdk-openjdk
-kitty
 libdvdcss
 libtool
 lsof
@@ -67,6 +65,7 @@ ntp
 openbsd-netcat
 openssh
 os-prober
+ordne
 p7zip
 papirus-icon-theme
 patch
@@ -85,7 +84,6 @@ snap-pac
 snapper
 steam
 swtpm
-synergy
 terminus-font
 traceroute
 ttf-droid
