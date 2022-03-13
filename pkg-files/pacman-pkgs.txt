@@ -15,7 +15,6 @@ xdg-user-dirs
 alsa-plugins
 alsa-utils
 autoconf
-
 automake
 awesome-terminal-fonts
 bash-completion
@@ -67,6 +66,7 @@ openbsd-netcat
 openssh
 os-prober
 ordne
+obs-studio
 p7zip
 papirus-icon-theme
 patch
