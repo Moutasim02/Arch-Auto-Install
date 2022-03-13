@@ -20,3 +20,13 @@ snapper-gui-git
 ttf-meslo
 vde2
 zoom
+kmail-git
+figma-linux
+figma-linux-font-helper
+jdk8
+intellij-idea-ce
+eclipse-java
+khronos
+remarkable
+teams
+telegram-desktop-bin
