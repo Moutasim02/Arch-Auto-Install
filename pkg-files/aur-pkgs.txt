@@ -31,3 +31,4 @@ remarkable
 teams
 telegram-desktop-bin
 notion-app-enhanced
+whatsapp-for-linux
