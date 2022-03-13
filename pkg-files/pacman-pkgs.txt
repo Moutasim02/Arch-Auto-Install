@@ -15,6 +15,7 @@ xdg-user-dirs
 alsa-plugins
 alsa-utils
 autoconf
+
 automake
 awesome-terminal-fonts
 bash-completion
@@ -102,3 +103,18 @@ zip
 zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
+libreoffice-fresh
+ttf-caladea 
+ttf-carlito 
+ttf-dejavu 
+ttf-liberation 
+ttf-linux-libertine-g 
+noto-fonts 
+adobe-source-code-pro-fonts 
+adobe-source-sans-pro-fonts 
+adobe-source-serif-pro-fonts
+libreoffice-extension-texmaths 
+libreoffice-extension-writer2latex
+hunspell
+hunspell-en_us
+discord
