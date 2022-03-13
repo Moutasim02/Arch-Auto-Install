@@ -5,7 +5,6 @@ xorg-apps
 xorg-drivers
 xorg-xkill
 xorg-xinit
-xterm
 binutils
 dosfstools
 linux-headers
